@@ -8,6 +8,5 @@ export default defineConfig({
       plugins: ["@babel/plugin-proposal-explicit-resource-management"], // add @babel/plugin-proposal-explicit-resource-management
     }
   })],
-
 })
 
